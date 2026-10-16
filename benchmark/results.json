@@ -1,0 +1,62 @@
+{
+  "task": "Recover hidden see-also links between Kubernetes Enhancement Proposals",
+  "sources": 176,
+  "hidden_links": 295,
+  "candidates_per_source": 677,
+  "methods": {
+    "text (TF-IDF document search)": {
+      "recall@1": 0.336,
+      "recall@5": 0.6,
+      "recall@10": 0.699,
+      "mrr": 0.563
+    },
+    "graph: shared people": {
+      "recall@1": 0.117,
+      "recall@5": 0.375,
+      "recall@10": 0.532,
+      "mrr": 0.331
+    },
+    "graph: shared gates + teams": {
+      "recall@1": 0.047,
+      "recall@5": 0.168,
+      "recall@10": 0.225,
+      "mrr": 0.165
+    },
+    "graph: proposal mentions": {
+      "recall@1": 0.129,
+      "recall@5": 0.546,
+      "recall@10": 0.6,
+      "mrr": 0.422
+    },
+    "graph: all except mentions": {
+      "recall@1": 0.142,
+      "recall@5": 0.43,
+      "recall@10": 0.59,
+      "mrr": 0.382
+    },
+    "graph: all signals": {
+      "recall@1": 0.32,
+      "recall@5": 0.659,
+      "recall@10": 0.756,
+      "mrr": 0.593
+    },
+    "hybrid: graph + text": {
+      "recall@1": 0.429,
+      "recall@5": 0.787,
+      "recall@10": 0.886,
+      "mrr": 0.691
+    }
+  },
+  "hybrid_text_weight_per_fold": [
+    16,
+    32
+  ],
+  "graph_weights": {
+    "mention": 3.0,
+    "mention_2hop": 0.5,
+    "people": 1.0,
+    "gates": 2.0,
+    "same_team": 0.3,
+    "shared_teams": 0.2
+  }
+}

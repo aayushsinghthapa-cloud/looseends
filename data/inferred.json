@@ -1,0 +1,1333 @@
+[
+ {
+  "a": 3327,
+  "b": 4540,
+  "score": 18.04,
+  "confidence": 1.0,
+  "reasons": [
+   "share feature gate CPUManagerPolicyAlphaOptions, CPUManagerPolicyBetaOptions",
+   "both linked from KEP-5554",
+   "1 shared contributor (@swatisehgal)",
+   "same team sig-node",
+   "similar wording (0.67)"
+  ]
+ },
+ {
+  "a": 1490,
+  "b": 1885,
+  "score": 16.04,
+  "confidence": 0.89,
+  "reasons": [
+   "both linked from KEP-625",
+   "3 shared contributors (@msau42, @andyzhangx, @jiawei0227)",
+   "same team sig-storage",
+   "similar wording (0.83)"
+  ]
+ },
+ {
+  "a": 2923,
+  "b": 2924,
+  "score": 16.03,
+  "confidence": 0.89,
+  "reasons": [
+   "both linked from KEP-625",
+   "3 shared contributors (@humblec, @msau42, @jiawei0227)",
+   "same team sig-storage",
+   "similar wording (0.85)"
+  ]
+ },
+ {
+  "a": 1491,
+  "b": 1885,
+  "score": 15.71,
+  "confidence": 0.87,
+  "reasons": [
+   "both linked from KEP-3935, KEP-625",
+   "2 shared contributors (@msau42, @jiawei0227)",
+   "same team sig-storage",
+   "similar wording (0.83)"
+  ]
+ },
+ {
+  "a": 1487,
+  "b": 1491,
+  "score": 15.41,
+  "confidence": 0.85,
+  "reasons": [
+   "both linked from KEP-625",
+   "2 shared contributors (@msau42, @jiawei0227)",
+   "same team sig-storage",
+   "similar wording (0.85)"
+  ]
+ },
+ {
+  "a": 1487,
+  "b": 1489,
+  "score": 15.38,
+  "confidence": 0.85,
+  "reasons": [
+   "both linked from KEP-625",
+   "2 shared contributors (@msau42, @jiawei0227)",
+   "same team sig-storage",
+   "similar wording (0.84)"
+  ]
+ },
+ {
+  "a": 1487,
+  "b": 1490,
+  "score": 15.33,
+  "confidence": 0.85,
+  "reasons": [
+   "both linked from KEP-625",
+   "2 shared contributors (@msau42, @jiawei0227)",
+   "same team sig-storage",
+   "similar wording (0.84)"
+  ]
+ },
+ {
+  "a": 1487,
+  "b": 2589,
+  "score": 15.33,
+  "confidence": 0.85,
+  "reasons": [
+   "both linked from KEP-625",
+   "2 shared contributors (@msau42, @jiawei0227)",
+   "same team sig-storage",
+   "similar wording (0.84)"
+  ]
+ },
+ {
+  "a": 1489,
+  "b": 1491,
+  "score": 15.26,
+  "confidence": 0.85,
+  "reasons": [
+   "both linked from KEP-625",
+   "2 shared contributors (@msau42, @jiawei0227)",
+   "same team sig-storage",
+   "similar wording (0.84)"
+  ]
+ },
+ {
+  "a": 1491,
+  "b": 2589,
+  "score": 15.21,
+  "confidence": 0.84,
+  "reasons": [
+   "both linked from KEP-625",
+   "2 shared contributors (@msau42, @jiawei0227)",
+   "same team sig-storage",
+   "similar wording (0.83)"
+  ]
+ },
+ {
+  "a": 758,
+  "b": 1453,
+  "score": 14.93,
+  "confidence": 0.83,
+  "reasons": [
+   "4 shared contributors (@thockin, @bowei, @aledbf)",
+   "same team sig-network",
+   "similar wording (0.78)"
+  ]
+ },
+ {
+  "a": 1487,
+  "b": 1488,
+  "score": 14.7,
+  "confidence": 0.81,
+  "reasons": [
+   "both linked from KEP-625",
+   "2 shared contributors (@msau42, @jiawei0227)",
+   "same team sig-storage",
+   "similar wording (0.80)"
+  ]
+ },
+ {
+  "a": 1487,
+  "b": 2923,
+  "score": 14.63,
+  "confidence": 0.81,
+  "reasons": [
+   "both linked from KEP-625",
+   "2 shared contributors (@msau42, @jiawei0227)",
+   "same team sig-storage",
+   "similar wording (0.80)"
+  ]
+ },
+ {
+  "a": 1487,
+  "b": 2924,
+  "score": 14.63,
+  "confidence": 0.81,
+  "reasons": [
+   "both linked from KEP-625",
+   "2 shared contributors (@msau42, @jiawei0227)",
+   "same team sig-storage",
+   "similar wording (0.80)"
+  ]
+ },
+ {
+  "a": 1488,
+  "b": 1491,
+  "score": 14.59,
+  "confidence": 0.81,
+  "reasons": [
+   "both linked from KEP-625",
+   "2 shared contributors (@msau42, @jiawei0227)",
+   "same team sig-storage",
+   "similar wording (0.79)"
+  ]
+ },
+ {
+  "a": 177,
+  "b": 557,
+  "score": 12.87,
+  "confidence": 0.71,
+  "reasons": [
+   "2 shared contributors (@msau42, @saad-ali)",
+   "same team sig-storage",
+   "similar wording (0.74)"
+  ]
+ },
+ {
+  "a": 667,
+  "b": 2394,
+  "score": 11.7,
+  "confidence": 0.65,
+  "reasons": [
+   "1 shared contributor (@andrewsykim)",
+   "same team sig-cloud-provider",
+   "similar wording (0.68)"
+  ]
+ },
+ {
+  "a": 668,
+  "b": 2394,
+  "score": 11.5,
+  "confidence": 0.64,
+  "reasons": [
+   "1 shared contributor (@andrewsykim)",
+   "same team sig-cloud-provider",
+   "similar wording (0.67)"
+  ]
+ },
+ {
+  "a": 669,
+  "b": 2394,
+  "score": 11.45,
+  "confidence": 0.63,
+  "reasons": [
+   "1 shared contributor (@andrewsykim)",
+   "same team sig-cloud-provider",
+   "similar wording (0.67)"
+  ]
+ },
+ {
+  "a": 671,
+  "b": 2394,
+  "score": 11.37,
+  "confidence": 0.63,
+  "reasons": [
+   "1 shared contributor (@andrewsykim)",
+   "same team sig-cloud-provider",
+   "similar wording (0.66)"
+  ]
+ },
+ {
+  "a": 667,
+  "b": 668,
+  "score": 11.36,
+  "confidence": 0.63,
+  "reasons": [
+   "1 shared contributor (@andrewsykim)",
+   "same team sig-cloud-provider",
+   "similar wording (0.66)"
+  ]
+ },
+ {
+  "a": 667,
+  "b": 669,
+  "score": 11.3,
+  "confidence": 0.63,
+  "reasons": [
+   "1 shared contributor (@andrewsykim)",
+   "same team sig-cloud-provider",
+   "similar wording (0.66)"
+  ]
+ },
+ {
+  "a": 667,
+  "b": 671,
+  "score": 11.23,
+  "confidence": 0.62,
+  "reasons": [
+   "1 shared contributor (@andrewsykim)",
+   "same team sig-cloud-provider",
+   "similar wording (0.65)"
+  ]
+ },
+ {
+  "a": 2625,
+  "b": 3327,
+  "score": 10.74,
+  "confidence": 0.59,
+  "reasons": [
+   "share feature gate CPUManagerPolicyAlphaOptions, CPUManagerPolicyBetaOptions",
+   "both linked from KEP-3570, KEP-5554",
+   "3 shared contributors (@klueska, @swatisehgal, @sig-node-tech-leads)",
+   "same team sig-node",
+   "similar wording (0.13)"
+  ]
+ },
+ {
+  "a": 670,
+  "b": 2394,
+  "score": 10.14,
+  "confidence": 0.56,
+  "reasons": [
+   "1 shared contributor (@andrewsykim)",
+   "same team sig-cloud-provider",
+   "similar wording (0.59)"
+  ]
+ },
+ {
+  "a": 667,
+  "b": 670,
+  "score": 10.02,
+  "confidence": 0.56,
+  "reasons": [
+   "1 shared contributor (@andrewsykim)",
+   "same team sig-cloud-provider",
+   "similar wording (0.58)"
+  ]
+ },
+ {
+  "a": 351,
+  "b": 565,
+  "score": 9.01,
+  "confidence": 0.5,
+  "reasons": [
+   "2 shared contributors (@msau42, @saad-ali)",
+   "same team sig-storage",
+   "similar wording (0.50)"
+  ]
+ },
+ {
+  "a": 3327,
+  "b": 4800,
+  "score": 8.83,
+  "confidence": 0.49,
+  "reasons": [
+   "share feature gate CPUManagerPolicyAlphaOptions, CPUManagerPolicyBetaOptions",
+   "both linked from KEP-5554",
+   "1 shared contributor (@klueska)",
+   "same team sig-node"
+  ]
+ },
+ {
+  "a": 4540,
+  "b": 4800,
+  "score": 8.47,
+  "confidence": 0.47,
+  "reasons": [
+   "share feature gate CPUManagerPolicyAlphaOptions, CPUManagerPolicyBetaOptions",
+   "both linked from KEP-5554",
+   "1 shared contributor (@ffromani)",
+   "same team sig-node"
+  ]
+ },
+ {
+  "a": 4827,
+  "b": 4828,
+  "score": 8.36,
+  "confidence": 0.46,
+  "reasons": [
+   "6 shared contributors (@richabanker, @dashpole, @logicalhan)",
+   "same team sig-instrumentation",
+   "similar wording (0.33)"
+  ]
+ },
+ {
+  "a": 127,
+  "b": 5607,
+  "score": 8.31,
+  "confidence": 0.46,
+  "reasons": [
+   "4 shared contributors (@sergeykanzhelev, @haircommander, @mrunalp)",
+   "same team sig-node",
+   "similar wording (0.38)"
+  ]
+ },
+ {
+  "a": 1884,
+  "b": 2403,
+  "score": 8.29,
+  "confidence": 0.46,
+  "reasons": [
+   "4 shared contributors (@derekwaynecarr, @renaudwastaken, @alexeyperevalov)",
+   "same team sig-node",
+   "similar wording (0.36)"
+  ]
+ },
+ {
+  "a": 5055,
+  "b": 5234,
+  "score": 7.26,
+  "confidence": 0.4,
+  "reasons": [
+   "2 shared contributors (@pohly, @dom4ha)",
+   "same team sig-scheduling",
+   "similar wording (0.39)"
+  ]
+ },
+ {
+  "a": 427,
+  "b": 566,
+  "score": 7.22,
+  "confidence": 0.4,
+  "reasons": [
+   "4 shared contributors (@johnbelamaric, @thockin, @bowei)",
+   "same team sig-network",
+   "similar wording (0.30)"
+  ]
+ },
+ {
+  "a": 695,
+  "b": 1682,
+  "score": 7.06,
+  "confidence": 0.39,
+  "reasons": [
+   "3 shared contributors (@gnuified, @msau42, @saad-ali)",
+   "same team sig-storage",
+   "similar wording (0.34)"
+  ]
+ },
+ {
+  "a": 361,
+  "b": 1029,
+  "score": 6.99,
+  "confidence": 0.39,
+  "reasons": [
+   "similar wording (0.42)"
+  ]
+ },
+ {
+  "a": 603,
+  "b": 770,
+  "score": 6.92,
+  "confidence": 0.38,
+  "reasons": [
+   "3 shared contributors (@jsafrane, @msau42, @saad-ali)",
+   "same team sig-storage",
+   "similar wording (0.35)"
+  ]
+ },
+ {
+  "a": 3327,
+  "b": 4176,
+  "score": 6.86,
+  "confidence": 0.38,
+  "reasons": [
+   "share feature gate CPUManagerPolicyAlphaOptions",
+   "both linked from KEP-5554",
+   "2 shared contributors (@klueska, @sig-node-tech-leads)",
+   "same team sig-node",
+   "similar wording (0.19)"
+  ]
+ },
+ {
+  "a": 4176,
+  "b": 4800,
+  "score": 6.82,
+  "confidence": 0.38,
+  "reasons": [
+   "share feature gate CPUManagerPolicyAlphaOptions",
+   "both linked from KEP-1194, KEP-5554",
+   "2 shared contributors (@klueska, @ffromani)",
+   "same team sig-node",
+   "similar wording (0.17)"
+  ]
+ },
+ {
+  "a": 5419,
+  "b": 5526,
+  "score": 6.81,
+  "confidence": 0.38,
+  "reasons": [
+   "share feature gate PodLevelResources",
+   "both linked from KEP-2837",
+   "3 shared contributors (@ndixita, @tallclair, @dchen1107)",
+   "same team sig-node",
+   "similar wording (0.18)"
+  ]
+ },
+ {
+  "a": 5027,
+  "b": 5234,
+  "score": 6.73,
+  "confidence": 0.37,
+  "reasons": [
+   "2 shared contributors (@pohly, @dom4ha)",
+   "same team sig-scheduling",
+   "similar wording (0.35)"
+  ]
+ },
+ {
+  "a": 853,
+  "b": 2021,
+  "score": 6.59,
+  "confidence": 0.37,
+  "reasons": [
+   "same team sig-autoscaling",
+   "similar wording (0.38)"
+  ]
+ },
+ {
+  "a": 4205,
+  "b": 5394,
+  "score": 6.58,
+  "confidence": 0.36,
+  "reasons": [
+   "both linked from KEP-1194",
+   "7 shared contributors (@ndixita, @roycaihw, @dragoncell)",
+   "same team sig-node"
+  ]
+ },
+ {
+  "a": 2530,
+  "b": 2532,
+  "score": 6.56,
+  "confidence": 0.36,
+  "reasons": [
+   "1 shared contributor (@andrewsykim)",
+   "same team sig-cloud-provider",
+   "similar wording (0.36)"
+  ]
+ },
+ {
+  "a": 2500,
+  "b": 2502,
+  "score": 6.55,
+  "confidence": 0.36,
+  "reasons": [
+   "5 shared contributors (@luxas, @fabriziopandini, @timothysc)",
+   "same team sig-cluster-lifecycle",
+   "similar wording (0.25)"
+  ]
+ },
+ {
+  "a": 5419,
+  "b": 6386,
+  "score": 6.51,
+  "confidence": 0.36,
+  "reasons": [
+   "both linked from KEP-2837, KEP-5328",
+   "4 shared contributors (@ndixita, @tallclair, @mrunalp)",
+   "same team sig-node",
+   "similar wording (0.24)"
+  ]
+ },
+ {
+  "a": 382,
+  "b": 548,
+  "score": 6.25,
+  "confidence": 0.35,
+  "reasons": [
+   "2 shared contributors (@k82cn, @draveness)",
+   "same team sig-scheduling",
+   "similar wording (0.28)"
+  ]
+ },
+ {
+  "a": 5526,
+  "b": 6386,
+  "score": 6.2,
+  "confidence": 0.34,
+  "reasons": [
+   "both linked from KEP-2837",
+   "3 shared contributors (@ndixita, @tallclair, @dchen1107)",
+   "same team sig-node",
+   "similar wording (0.27)"
+  ]
+ },
+ {
+  "a": 2712,
+  "b": 4802,
+  "score": 6.2,
+  "confidence": 0.34,
+  "reasons": [
+   "both linked from KEP-2000",
+   "1 shared contributor (@mrunalp)",
+   "similar wording (0.34)"
+  ]
+ },
+ {
+  "a": 85,
+  "b": 981,
+  "score": 5.97,
+  "confidence": 0.33,
+  "reasons": [
+   "3 shared contributors (@mortent, @janetkuo, @kow3ns)",
+   "same team sig-apps",
+   "similar wording (0.26)"
+  ]
+ },
+ {
+  "a": 5710,
+  "b": 5832,
+  "score": 5.83,
+  "confidence": 0.32,
+  "reasons": [
+   "share feature gate GenericWorkload",
+   "both linked from KEP-4671",
+   "4 shared contributors (@wojtek-t, @dom4ha, @macsko)",
+   "same team sig-scheduling",
+   "similar wording (0.10)"
+  ]
+ },
+ {
+  "a": 1855,
+  "b": 2451,
+  "score": 5.81,
+  "confidence": 0.32,
+  "reasons": [
+   "3 shared contributors (@jsafrane, @zshihang, @mikedanese)",
+   "same team sig-storage",
+   "similar wording (0.24)"
+  ]
+ },
+ {
+  "a": 1177,
+  "b": 2505,
+  "score": 5.64,
+  "confidence": 0.31,
+  "reasons": [
+   "9 shared contributors (@rosti, @luxas, @neolit123)",
+   "same team sig-cluster-lifecycle"
+  ]
+ },
+ {
+  "a": 2438,
+  "b": 3705,
+  "score": 5.61,
+  "confidence": 0.31,
+  "reasons": [
+   "3 shared contributors (@thockin, @khenidak, @danwinship)",
+   "same team sig-network",
+   "similar wording (0.26)"
+  ]
+ },
+ {
+  "a": 4800,
+  "b": 6122,
+  "score": 5.46,
+  "confidence": 0.3,
+  "reasons": [
+   "share feature gate CPUManagerPolicyAlphaOptions",
+   "both linked from KEP-1194, KEP-5554",
+   "2 shared contributors (@ffromani, @kad)",
+   "same team sig-node"
+  ]
+ },
+ {
+  "a": 1209,
+  "b": 3498,
+  "score": 5.44,
+  "confidence": 0.3,
+  "reasons": [
+   "2 shared contributors (@dashpole, @logicalhan)",
+   "same team sig-instrumentation",
+   "similar wording (0.27)"
+  ]
+ },
+ {
+  "a": 2314,
+  "b": 2394,
+  "score": 5.43,
+  "confidence": 0.3,
+  "reasons": [
+   "same team sig-cloud-provider",
+   "similar wording (0.31)"
+  ]
+ },
+ {
+  "a": 1797,
+  "b": 4762,
+  "score": 5.35,
+  "confidence": 0.3,
+  "reasons": [
+   "1 shared contributor (@thockin)",
+   "similar wording (0.30)"
+  ]
+ },
+ {
+  "a": 563,
+  "b": 3705,
+  "score": 5.32,
+  "confidence": 0.3,
+  "reasons": [
+   "3 shared contributors (@thockin, @khenidak, @danwinship)",
+   "same team sig-network",
+   "similar wording (0.25)"
+  ]
+ },
+ {
+  "a": 2393,
+  "b": 2395,
+  "score": 5.27,
+  "confidence": 0.29,
+  "reasons": [
+   "3 shared contributors (@andrewsykim, @hogepodge, @d-nishi)",
+   "same team sig-cloud-provider",
+   "similar wording (0.22)"
+  ]
+ },
+ {
+  "a": 115,
+  "b": 783,
+  "score": 5.27,
+  "confidence": 0.29,
+  "reasons": [
+   "5 shared contributors (@liggitt, @thockin, @jbeda)",
+   "same team sig-cluster-lifecycle",
+   "similar wording (0.17)"
+  ]
+ },
+ {
+  "a": 284,
+  "b": 531,
+  "score": 5.26,
+  "confidence": 0.29,
+  "reasons": [
+   "same team sig-storage",
+   "similar wording (0.30)"
+  ]
+ },
+ {
+  "a": 667,
+  "b": 2530,
+  "score": 5.23,
+  "confidence": 0.29,
+  "reasons": [
+   "3 shared contributors (@andrewsykim, @hogepodge, @jagosan)",
+   "same team sig-cloud-provider",
+   "similar wording (0.22)"
+  ]
+ },
+ {
+  "a": 4176,
+  "b": 6122,
+  "score": 5.13,
+  "confidence": 0.28,
+  "reasons": [
+   "share feature gate CPUManagerPolicyAlphaOptions",
+   "both linked from KEP-1194, KEP-5554",
+   "1 shared contributor (@ffromani)",
+   "same team sig-node"
+  ]
+ },
+ {
+  "a": 95,
+  "b": 492,
+  "score": 5.13,
+  "confidence": 0.28,
+  "reasons": [
+   "3 shared contributors (@liggitt, @deads2k, @mbohlool)",
+   "same team sig-api-machinery",
+   "similar wording (0.23)"
+  ]
+ },
+ {
+  "a": 2451,
+  "b": 2799,
+  "score": 5.12,
+  "confidence": 0.28,
+  "reasons": [
+   "both linked from KEP-1205",
+   "3 shared contributors (@zshihang, @mikedanese, @liggitt)",
+   "similar wording (0.21)"
+  ]
+ },
+ {
+  "a": 667,
+  "b": 2392,
+  "score": 5.09,
+  "confidence": 0.28,
+  "reasons": [
+   "3 shared contributors (@andrewsykim, @hogepodge, @jagosan)",
+   "similar wording (0.23)"
+  ]
+ },
+ {
+  "a": 1281,
+  "b": 2025,
+  "score": 5.08,
+  "confidence": 0.28,
+  "reasons": [
+   "3 shared contributors (@andrewsykim, @cheftako, @anfernee)",
+   "similar wording (0.20)"
+  ]
+ },
+ {
+  "a": 3850,
+  "b": 4368,
+  "score": 5.04,
+  "confidence": 0.28,
+  "reasons": [
+   "both linked from KEP-3329, KEP-3939, KEP-3998",
+   "4 shared contributors (@alculquicondor, @soltysh, @deads2k)",
+   "same team sig-apps"
+  ]
+ },
+ {
+  "a": 1864,
+  "b": 1959,
+  "score": 4.93,
+  "confidence": 0.27,
+  "reasons": [
+   "2 shared contributors (@thockin, @andrewsykim)",
+   "similar wording (0.25)"
+  ]
+ },
+ {
+  "a": 2420,
+  "b": 2818,
+  "score": 4.87,
+  "confidence": 0.27,
+  "reasons": [
+   "both linked from KEP-1194",
+   "1 shared contributor (@justaugustus)",
+   "similar wording (0.24)"
+  ]
+ },
+ {
+  "a": 4815,
+  "b": 4816,
+  "score": 4.86,
+  "confidence": 0.27,
+  "reasons": [
+   "both linked from KEP-4381, KEP-5007, KEP-5517",
+   "5 shared contributors (@pohly, @mortent, @klueska)",
+   "same team sig-scheduling"
+  ]
+ },
+ {
+  "a": 853,
+  "b": 6003,
+  "score": 4.84,
+  "confidence": 0.27,
+  "reasons": [
+   "both linked from KEP-4951",
+   "same team sig-autoscaling",
+   "similar wording (0.24)"
+  ]
+ },
+ {
+  "a": 3850,
+  "b": 4017,
+  "score": 4.83,
+  "confidence": 0.27,
+  "reasons": [
+   "both linked from KEP-1194",
+   "1 shared contributor (@soltysh)",
+   "same team sig-apps",
+   "similar wording (0.22)"
+  ]
+ },
+ {
+  "a": 3962,
+  "b": 4595,
+  "score": 4.77,
+  "confidence": 0.26,
+  "reasons": [
+   "both linked from KEP-1194",
+   "4 shared contributors (@liggitt, @jpbetz, @deads2k)",
+   "same team sig-api-machinery",
+   "similar wording (0.16)"
+  ]
+ },
+ {
+  "a": 970,
+  "b": 2501,
+  "score": 4.75,
+  "confidence": 0.26,
+  "reasons": [
+   "7 shared contributors (@luxas, @neolit123, @fabriziopandini)",
+   "same team sig-cluster-lifecycle"
+  ]
+ },
+ {
+  "a": 604,
+  "b": 667,
+  "score": 4.66,
+  "confidence": 0.26,
+  "reasons": [
+   "3 shared contributors (@justaugustus, @feiskyer, @khenidak)",
+   "same team sig-cloud-provider",
+   "similar wording (0.18)"
+  ]
+ },
+ {
+  "a": 3716,
+  "b": 3962,
+  "score": 4.62,
+  "confidence": 0.26,
+  "reasons": [
+   "both linked from KEP-3488, KEP-1194",
+   "4 shared contributors (@jpbetz, @deads2k, @cici37)",
+   "same team sig-api-machinery"
+  ]
+ },
+ {
+  "a": 2392,
+  "b": 2530,
+  "score": 4.56,
+  "confidence": 0.25,
+  "reasons": [
+   "3 shared contributors (@andrewsykim, @hogepodge, @jagosan)",
+   "similar wording (0.19)"
+  ]
+ },
+ {
+  "a": 3000,
+  "b": 3720,
+  "score": 4.56,
+  "confidence": 0.25,
+  "reasons": [
+   "5 shared contributors (@saschagrunert, @cpanato, @justaugustus)",
+   "same team sig-release",
+   "similar wording (0.10)"
+  ]
+ },
+ {
+  "a": 853,
+  "b": 1610,
+  "score": 4.52,
+  "confidence": 0.25,
+  "reasons": [
+   "3 shared contributors (@arjunrn, @josephburnett, @mwielgus)",
+   "same team sig-autoscaling",
+   "similar wording (0.11)"
+  ]
+ },
+ {
+  "a": 692,
+  "b": 2335,
+  "score": 4.5,
+  "confidence": 0.25,
+  "reasons": [
+   "4 shared contributors (@liggitt, @sttts, @apelisse)",
+   "same team sig-api-machinery",
+   "similar wording (0.17)"
+  ]
+ },
+ {
+  "a": 1177,
+  "b": 1381,
+  "score": 4.5,
+  "confidence": 0.25,
+  "reasons": [
+   "5 shared contributors (@rosti, @neolit123, @fabriziopandini)",
+   "same team sig-cluster-lifecycle",
+   "similar wording (0.12)"
+  ]
+ },
+ {
+  "a": 2268,
+  "b": 4802,
+  "score": 4.49,
+  "confidence": 0.25,
+  "reasons": [
+   "both linked from KEP-2000",
+   "similar wording (0.25)"
+  ]
+ },
+ {
+  "a": 2392,
+  "b": 2532,
+  "score": 4.47,
+  "confidence": 0.25,
+  "reasons": [
+   "2 shared contributors (@andrewsykim, @cheftako)",
+   "similar wording (0.23)"
+  ]
+ },
+ {
+  "a": 2332,
+  "b": 2335,
+  "score": 4.44,
+  "confidence": 0.25,
+  "reasons": [
+   "6 shared contributors (@liggitt, @sttts, @apelisse)",
+   "same team sig-api-machinery",
+   "similar wording (0.14)"
+  ]
+ },
+ {
+  "a": 989,
+  "b": 1495,
+  "score": 4.43,
+  "confidence": 0.25,
+  "reasons": [
+   "3 shared contributors (@j-griffith, @thockin, @saad-ali)",
+   "same team sig-storage",
+   "similar wording (0.16)"
+  ]
+ },
+ {
+  "a": 2501,
+  "b": 2502,
+  "score": 4.34,
+  "confidence": 0.24,
+  "reasons": [
+   "7 shared contributors (@luxas, @neolit123, @fabriziopandini)",
+   "same team sig-cluster-lifecycle"
+  ]
+ },
+ {
+  "a": 1381,
+  "b": 2505,
+  "score": 4.34,
+  "confidence": 0.24,
+  "reasons": [
+   "6 shared contributors (@yastij, @rosti, @neolit123)",
+   "same team sig-cluster-lifecycle"
+  ]
+ },
+ {
+  "a": 19,
+  "b": 85,
+  "score": 4.3,
+  "confidence": 0.24,
+  "reasons": [
+   "6 shared contributors (@liggitt, @wojtek-t, @mortent)",
+   "same team sig-apps",
+   "similar wording (0.13)"
+  ]
+ },
+ {
+  "a": 1027,
+  "b": 2896,
+  "score": 4.3,
+  "confidence": 0.24,
+  "reasons": [
+   "both linked from KEP-1194",
+   "4 shared contributors (@sttts, @apelisse, @deads2k)",
+   "same team sig-api-machinery",
+   "similar wording (0.14)"
+  ]
+ },
+ {
+  "a": 85,
+  "b": 3017,
+  "score": 4.3,
+  "confidence": 0.24,
+  "reasons": [
+   "6 shared contributors (@liggitt, @wojtek-t, @mortent)",
+   "same team sig-apps",
+   "similar wording (0.11)"
+  ]
+ },
+ {
+  "a": 970,
+  "b": 2505,
+  "score": 4.28,
+  "confidence": 0.24,
+  "reasons": [
+   "7 shared contributors (@rosti, @luxas, @neolit123)",
+   "same team sig-cluster-lifecycle"
+  ]
+ },
+ {
+  "a": 3257,
+  "b": 4317,
+  "score": 4.28,
+  "confidence": 0.24,
+  "reasons": [
+   "both linked from KEP-1194, KEP-5936",
+   "3 shared contributors (@liggitt, @enj, @ahmedtd)",
+   "same team sig-auth"
+  ]
+ },
+ {
+  "a": 2625,
+  "b": 6122,
+  "score": 4.26,
+  "confidence": 0.24,
+  "reasons": [
+   "share feature gate CPUManagerPolicyAlphaOptions",
+   "both linked from KEP-5554",
+   "1 shared contributor (@ffromani)",
+   "same team sig-node"
+  ]
+ },
+ {
+  "a": 1855,
+  "b": 5538,
+  "score": 4.26,
+  "confidence": 0.24,
+  "reasons": [
+   "1 shared contributor (@msau42)",
+   "same team sig-storage",
+   "similar wording (0.21)"
+  ]
+ },
+ {
+  "a": 2902,
+  "b": 6122,
+  "score": 4.24,
+  "confidence": 0.24,
+  "reasons": [
+   "share feature gate CPUManagerPolicyAlphaOptions",
+   "both linked from KEP-5554",
+   "1 shared contributor (@ffromani)",
+   "same team sig-node"
+  ]
+ },
+ {
+  "a": 2392,
+  "b": 2395,
+  "score": 4.24,
+  "confidence": 0.24,
+  "reasons": [
+   "both linked from KEP-1179",
+   "4 shared contributors (@thockin, @andrewsykim, @cheftako)",
+   "similar wording (0.11)"
+  ]
+ },
+ {
+  "a": 1435,
+  "b": 1864,
+  "score": 4.22,
+  "confidence": 0.23,
+  "reasons": [
+   "2 shared contributors (@thockin, @andrewsykim)",
+   "same team sig-network",
+   "similar wording (0.19)"
+  ]
+ },
+ {
+  "a": 4816,
+  "b": 5234,
+  "score": 4.22,
+  "confidence": 0.23,
+  "reasons": [
+   "both linked from KEP-1194",
+   "6 shared contributors (@pohly, @mortent, @klueska)",
+   "same team sig-scheduling"
+  ]
+ },
+ {
+  "a": 2214,
+  "b": 3998,
+  "score": 4.22,
+  "confidence": 0.23,
+  "reasons": [
+   "both linked from KEP-3850",
+   "2 shared contributors (@alculquicondor, @soltysh)",
+   "same team sig-apps",
+   "similar wording (0.17)"
+  ]
+ },
+ {
+  "a": 692,
+  "b": 2896,
+  "score": 4.21,
+  "confidence": 0.23,
+  "reasons": [
+   "2 shared contributors (@sttts, @apelisse)",
+   "same team sig-api-machinery",
+   "similar wording (0.19)"
+  ]
+ },
+ {
+  "a": 556,
+  "b": 596,
+  "score": 4.21,
+  "confidence": 0.23,
+  "reasons": [
+   "2 shared contributors (@jsafrane, @saad-ali)",
+   "same team sig-storage",
+   "similar wording (0.20)"
+  ]
+ },
+ {
+  "a": 268,
+  "b": 902,
+  "score": 4.21,
+  "confidence": 0.23,
+  "reasons": [
+   "2 shared contributors (@bsalamat, @k82cn)",
+   "same team sig-scheduling",
+   "similar wording (0.18)"
+  ]
+ },
+ {
+  "a": 1333,
+  "b": 3136,
+  "score": 4.2,
+  "confidence": 0.23,
+  "reasons": [
+   "both linked from KEP-3935",
+   "3 shared contributors (@liggitt, @johnbelamaric, @deads2k)",
+   "same team sig-architecture",
+   "similar wording (0.14)"
+  ]
+ },
+ {
+  "a": 752,
+  "b": 1669,
+  "score": 4.17,
+  "confidence": 0.23,
+  "reasons": [
+   "both linked from KEP-5922",
+   "2 shared contributors (@wojtek-t, @thockin)",
+   "same team sig-network",
+   "similar wording (0.17)"
+  ]
+ },
+ {
+  "a": 492,
+  "b": 2334,
+  "score": 4.17,
+  "confidence": 0.23,
+  "reasons": [
+   "1 shared contributor (@liggitt)",
+   "same team sig-api-machinery",
+   "similar wording (0.22)"
+  ]
+ },
+ {
+  "a": 1179,
+  "b": 2393,
+  "score": 4.16,
+  "confidence": 0.23,
+  "reasons": [
+   "1 shared contributor (@andrewsykim)",
+   "same team sig-cloud-provider",
+   "similar wording (0.21)"
+  ]
+ },
+ {
+  "a": 5554,
+  "b": 6007,
+  "score": 4.16,
+  "confidence": 0.23,
+  "reasons": [
+   "both linked from KEP-2625, KEP-3545, KEP-693",
+   "3 shared contributors (@pravk03, @ffromani, @dchen1107)",
+   "same team sig-node"
+  ]
+ },
+ {
+  "a": 2902,
+  "b": 6007,
+  "score": 4.15,
+  "confidence": 0.23,
+  "reasons": [
+   "2 shared contributors (@swatisehgal, @ffromani)",
+   "same team sig-node",
+   "similar wording (0.19)"
+  ]
+ },
+ {
+  "a": 1179,
+  "b": 1771,
+  "score": 4.14,
+  "confidence": 0.23,
+  "reasons": [
+   "2 shared contributors (@andrewsykim, @cheftako)",
+   "same team sig-cloud-provider",
+   "similar wording (0.18)"
+  ]
+ },
+ {
+  "a": 116,
+  "b": 995,
+  "score": 4.13,
+  "confidence": 0.23,
+  "reasons": [
+   "3 shared contributors (@patricklang, @michmike, @benmoss)",
+   "same team sig-windows",
+   "similar wording (0.11)"
+  ]
+ },
+ {
+  "a": 3939,
+  "b": 3998,
+  "score": 4.13,
+  "confidence": 0.23,
+  "reasons": [
+   "both linked from KEP-3850, KEP-4368",
+   "5 shared contributors (@wojtek-t, @alculquicondor, @kannon92)",
+   "same team sig-apps"
+  ]
+ },
+ {
+  "a": 2392,
+  "b": 2436,
+  "score": 4.11,
+  "confidence": 0.23,
+  "reasons": [
+   "2 shared contributors (@andrewsykim, @cheftako)",
+   "similar wording (0.19)"
+  ]
+ },
+ {
+  "a": 970,
+  "b": 2506,
+  "score": 4.11,
+  "confidence": 0.23,
+  "reasons": [
+   "4 shared contributors (@rosti, @neolit123, @fabriziopandini)",
+   "same team sig-cluster-lifecycle",
+   "similar wording (0.14)"
+  ]
+ },
+ {
+  "a": 2021,
+  "b": 5679,
+  "score": 4.09,
+  "confidence": 0.23,
+  "reasons": [
+   "both linked from KEP-1194",
+   "1 shared contributor (@adrianmoisey)",
+   "same team sig-autoscaling",
+   "similar wording (0.17)"
+  ]
+ },
+ {
+  "a": 2394,
+  "b": 2436,
+  "score": 4.09,
+  "confidence": 0.23,
+  "reasons": [
+   "1 shared contributor (@andrewsykim)",
+   "same team sig-cloud-provider",
+   "similar wording (0.21)"
+  ]
+ },
+ {
+  "a": 1333,
+  "b": 1635,
+  "score": 4.08,
+  "confidence": 0.23,
+  "reasons": [
+   "both linked from KEP-3935",
+   "4 shared contributors (@liggitt, @smarterclayton, @johnbelamaric)",
+   "same team sig-architecture",
+   "similar wording (0.12)"
+  ]
+ },
+ {
+  "a": 2268,
+  "b": 2712,
+  "score": 4.03,
+  "confidence": 0.22,
+  "reasons": [
+   "both linked from KEP-2000",
+   "similar wording (0.21)"
+  ]
+ }
+]

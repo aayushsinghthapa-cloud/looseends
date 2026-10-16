@@ -1,0 +1,9 @@
+.git
+**/__pycache__
+.pytest_cache
+data/enhancements
+data/*.db
+data/*.rdb
+data/*.settings
+*.mp4
+docs/media
