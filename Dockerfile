@@ -13,4 +13,5 @@ USER user
 ENV PYTHONUNBUFFERED=1
 EXPOSE 7860
 # The graph is built from data/keps.json on first start (about 6 seconds).
-CMD ["uvicorn", "looseends.web:app", "--host", "0.0.0.0", "--port", "7860"]
+# Uses $PORT when the host sets one (Render, Koyeb, Railway); 7860 otherwise (Hugging Face).
+CMD ["sh", "-c", "uvicorn looseends.web:app --host 0.0.0.0 --port ${PORT:-7860}"]
