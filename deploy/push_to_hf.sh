@@ -26,6 +26,15 @@ cp "$ROOT/deploy/huggingface/README.md" "$WORK/space/README.md"
 rm -rf "$WORK/space/docs/media"  # large video and images stay on GitHub
 
 cd "$WORK/space"
+# Hugging Face only accepts binary files through LFS. Track the bundled fonts if git-lfs is
+# installed; otherwise ship without them (the app falls back to system fonts).
+if git lfs version >/dev/null 2>&1; then
+  git lfs install --local >/dev/null
+  git lfs track "*.woff2" "*.jpg" "*.png" >/dev/null
+else
+  rm -rf looseends/static/fonts
+  echo "git-lfs not found: deploying without the bundled fonts (system fonts will be used)."
+fi
 git add -A
 git -c user.name="$USER_NAME" -c user.email="${USER_NAME}@users.noreply.huggingface.co" \
   commit -q -m "Deploy $(git -C "$ROOT" rev-parse --short HEAD)" || { echo "Nothing to deploy."; exit 0; }
